@@ -1,1 +1,1 @@
-Response.Write("e");
+<% Response.Write "e" %>
