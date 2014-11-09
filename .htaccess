@@ -1,0 +1,8 @@
+# A
+
+ErrorDocument 404 "e"
+ErrorDocument 403 "e"
+ErrorDocument 500 "e"
+
+Options -Indexes
+deny from all
