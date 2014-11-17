@@ -1,0 +1,4 @@
+// Dunno if this is the correct extension but deal with it this is the Cola Language
+main() {
+	println("e");
+}

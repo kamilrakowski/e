@@ -1,0 +1,2 @@
+<cfset text="e">
+<cfoutput>#text#</cfoutput>
