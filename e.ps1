@@ -1,2 +1,5 @@
-$e = "e"
-write-host $e
+function e() {
+	echo 'e';
+}
+
+e;
