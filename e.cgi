@@ -1,3 +1,3 @@
 #!/bin/bash
-
-echo 'e'
+echo "Content-type: text/plain \n\n"
+echo "e"
