@@ -1,3 +1,3 @@
 # it's like haskal but javdscrp
 
-alert('e');
+console.log('e');
